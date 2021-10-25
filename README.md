@@ -6,7 +6,7 @@ Análise e Desenvolvimento de Sistemas. 🖐
 ## 🌏 "A  tecnologia move o mundo" 🌏
 
 - ☃️ I live in this Santa Catarina  city
-- 🧙🏼‍♂️ I'm Desenvolvedor Front-End 
+- 🧙🏼‍♂️ I'm Developer Front-End 
 - ❤️ HTML
 - ❤️ CSS
 - ❤️ JAVASCRIPT
