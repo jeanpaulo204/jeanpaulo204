@@ -42,48 +42,6 @@ Análise e Desenvolvimento de Sistemas. 🖐
 <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
-- 👨‍💻 **Bolsista de desenvolvimento web**\
-📆 10/2021 - Momento\
-📍 **Pró-Reitoria de Administração da UFRN (PROAD)** - Natal, RN
 
-<h2>📚 Formação acadêmica</h2>
-  
- - 📖 **Bacharelado em tecnologia da informação**\
-📆 2021 - Momento\
-📍 **Universidade Federal do Rio Grande do Norte** - Natal, RN
-
-- 📖 **Técnico em informática**\
-📆 2017 - 2021\
-📍 **Instituto Federal do Rio Grande do Norte** - João Câmara, RN
-  
-<h2>📚 Formação complementar</h2>
-  
- - 📖 **Curso FIC de Programador web**\
-📆 2021 - 2021\
-📍 **Instituto Metrópole Digital - UFRN** - Natal, RN
-
-<h2>🧑‍💻 Workspace</h2>
-  
-<h3>💻 Notebook</h3>
-<img src=https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Windows%2011-007ADC?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/intel-core%20i5%2010210u-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
-
-<h3>🖥️ Monitor</h3>
-<img src="https://img.shields.io/badge/monitor%20dell-s2421hn-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
-
-<h3>⌨️🖱️ Periféricos</h3>
-<img src="https://img.shields.io/badge/Mouse%20Logitech-G203-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>                                                        
-<img src="https://img.shields.io/badge/Teclado%20Logitech-G213-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mousepad%20Logitech-G240-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>      
-                                                                                                                         
-</details>
-  
- <br/>                                                                                                                          
-                                                                                                                           
-<p align="center">
-<img src="https://badges.pufler.dev/visits/rubenfilipe07/rubenfilipe07"/>
-</p>
 
 
