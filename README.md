@@ -1,4 +1,4 @@
-#    Olá Me Chamo Jean 👨‍💻
+#    Olá Me Chamo Jea 👨‍💻
 ```
  Sou Estudante Da Univali De  
 Análise e Desenvolvimento de Sistemas. 🖐
