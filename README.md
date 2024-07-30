@@ -1,7 +1,7 @@
 # ¡Bienvenidos!
 
 <img align="right" width="400" src="https://dltqhkoxgn1gx.cloudfront.net/img/posts/vuejs-animations-for-beginners-3.gif" />
-#    Hola, me llamo Jean. 👨‍💻
+##   Hola, me llamo Jean. 👨‍💻
 
 Soy desarrollador front-end con 4 años de experiencia en el campo de la programación. A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos proyectos que han enriquecido mi conocimiento y habilidades técnicas.
 
