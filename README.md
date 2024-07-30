@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://dltqhkoxgn1gx.cloudfront.net/img/posts/vuejs-animations-for-beginners-3.gif" />
 #    Hola, me llamo Jean. 👨‍💻
 
-Hola, me llamo Jean. Soy desarrollador front-end con 4 años de experiencia en el campo de la programación. A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos proyectos que han enriquecido mi conocimiento y habilidades técnicas.
+Soy desarrollador front-end con 4 años de experiencia en el campo de la programación. A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos proyectos que han enriquecido mi conocimiento y habilidades técnicas.
 
 Actualmente, me especializo en el uso de Vue.js, una tecnología que he adoptado por su flexibilidad, rendimiento y capacidad para crear interfaces de usuario interactivas y eficientes. Mi pasión por el desarrollo front-end me ha llevado a explorar y dominar herramientas y técnicas modernas, y siempre estoy en busca de nuevas formas de mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.
 
