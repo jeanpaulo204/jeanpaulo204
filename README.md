@@ -1,15 +1,19 @@
-# Sejam muito bem-vindos!
+# ¡Bienvenidos!
 
 <img align="right" width="400" src="https://dltqhkoxgn1gx.cloudfront.net/img/posts/vuejs-animations-for-beginners-3.gif" />
-#    Olá Me Chamo Jean 👨‍💻
+#    Hola, me llamo Jean. 👨‍💻
 
- Sou Estudante Da Univali De Análise e Desenvolvimento de Sistemas. 🖐
+Hola, me llamo Jean. Soy desarrollador front-end con 4 años de experiencia en el campo de la programación. A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos proyectos que han enriquecido mi conocimiento y habilidades técnicas.
 
-## 🌏 *The technology moves the world* 🌏
+Actualmente, me especializo en el uso de Vue.js, una tecnología que he adoptado por su flexibilidad, rendimiento y capacidad para crear interfaces de usuario interactivas y eficientes. Mi pasión por el desarrollo front-end me ha llevado a explorar y dominar herramientas y técnicas modernas, y siempre estoy en busca de nuevas formas de mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.
 
-- 🧙🏼‍️ I practice what I post
-- ☃️ Living in Itajaí, SC, Brazil.
-- ❤️ Your life does not get better by chance. It gets better by a change
+Estoy entusiasmado por seguir creciendo en este campo y contribuir a proyectos innovadores que hagan una diferencia en el mundo digital.
+
+## 🌏 *La tecnología mueve el mundo * 🌏
+
+- 🧙🏼‍️ Practico lo que publico
+- ☃️ Viviendo en Itajaí, SC, Brasil.
+- ❤️ Tu vida no mejora por casualidad. Mejora con un cambio
 
 <p align="center">
   <a>
